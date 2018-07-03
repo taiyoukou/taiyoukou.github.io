@@ -1,55 +1,58 @@
+---
 title: Salesforce & Japanese study blog
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  project:
+    title: Project
+    output: true
+    permalink: "/project/:path/"
+  uploads:
+    title: Uploads
+    output: true
 description: Where my study gets written down...
 author: Nhat (ニャット)
 github: https://github.com/taiyoukou
-about: I'm Nhat (ニャット), currenly living in HCM city, VN<br/>I'm a SFDC Developer & a Japanese Learner.<br/>私はNHATです。HCM、VNに住んでいます。
+about: I'm Nhat (ニャット), currenly living in HCM city, VN<br/>I'm a SFDC Developer &
+  a Japanese Learner.<br/>私はNHATです。HCM、VNに住んでいます。
 disqus_shortname: nhatpham
 google_analytics: UA-XXXXXXXX-Y
-avatar_url: /static/img/avatar.jpg
-
+avatar_url: "/static/img/avatar.jpg"
 enableTags: true
 tagarray: []
-
-collections:
-  project:
-    output: true
-    permalink: /project/:path/
-
 social:
-    - icon: fa-twitter
-      link: "https://twitter.com/NhatPham_sfdcvn"
-    - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/nhat-pham-b0667090"
-    - icon: fa-stack-exchange
-      link: "#"
-    - icon: fa-github
-      link: "https://github.com/taiyoukou"
-
+- icon: fa-twitter
+  link: https://twitter.com/NhatPham_sfdcvn
+- icon: fa-linkedin
+  link: https://www.linkedin.com/in/nhat-pham-b0667090
+- icon: fa-stack-exchange
+  link: "#"
+- icon: fa-github
+  link: https://github.com/taiyoukou
 share:
   twitter_username: NhatPham_sfdcvn
-  #fb_appid: 1749788565247320
-
 urls:
-    - text: About Me
-      url: /about/
-    - text: My Projects
-      url: /projects/
-    - text: XML Feed
-      url: /feed.xml
-
-url: "https://taiyoukou.github.io"
-baseurl: ""
+- text: About Me
+  url: "/about/"
+- text: My Projects
+  url: "/projects/"
+- text: XML Feed
+  url: "/feed.xml"
+url: https://taiyoukou.github.io
+baseurl: ''
 paginate: 20
 per_page: 20
 paginate_path: "/page/:num/"
 markdown: kramdown
 gems:
-  - jekyll-paginate
-  - jekyll-gist
-
+- jekyll-paginate
+- jekyll-gist
 compress_html:
   clippings: all
-  comments: ["<!-- ", " -->"]
+  comments:
+  - "<!-- "
+  - " -->"
   endings: all
-
 theme: jekyll-theme-slate

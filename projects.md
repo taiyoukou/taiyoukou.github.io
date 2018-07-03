@@ -1,7 +1,7 @@
 ---
-layout: project
 title: Japanese
-permalink: /japanese/
+permalink: "/japanese/"
+layout: project
 ---
 
 My progress into Japanese.
