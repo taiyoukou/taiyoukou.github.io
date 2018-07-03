@@ -1,9 +1,10 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I am freelance developer. Currently doing more in backend, focused in Python and Django.
-disqus_shortname: stackproblems
+title: Salesforce & Japanese study blog
+description: Where my study gets written down...
+author: Nhat (ニャット)
+github: https://github.com/taiyoukou
+about: I'm Nhat (ニャット), currenly living in HCM city, VN and working as a Salesforce Developer, also a Japanese learner.
+私はNHATです。HCM、VNに住んでいます。
+disqus_shortname: nhatpham
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
 
@@ -28,8 +29,8 @@ social:
       link: "https://github.com/agusmakmun"
 
 share:
-  twitter_username: agusmakmun6
-  fb_appid: 1749788565247320
+  twitter_username: NhatPham_sfdcvn
+  #fb_appid: 1749788565247320
 
 urls:
     - text: About Me
@@ -39,7 +40,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://taiyoukou.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
