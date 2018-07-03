@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Projects
-permalink: /projects/
+title: Japanese
+permalink: /japanese/
 ---
 
-Few of my projects. Currently doing more in backend, focused in Python and Django.
+My progress into Japanese.
