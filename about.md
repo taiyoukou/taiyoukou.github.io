@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I am freelance developer. Currently doing more in backend, focused in Python and Django.
+Hi there, 
 
-email: agus[at]python.web.id
+My name is Nhat Pham. A software engineer with passion for Salesforce and Language study(Japanese ATM).
+
+My personal contact: <pmnhatdn@gmail.com>
